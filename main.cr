@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 puts "Hello World!"
 
 a = true
